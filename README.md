@@ -25,3 +25,13 @@ Jika kamu ingin mengatur server dengan konfigurasi RAM 16TB, gunakan perintah be
 bash run2
 ```
 Perintah ini akan memulai server dengan konfigurasi RAM besar yang dioptimalkan untuk beban kerja besar.
+
+### 3. Finalisasi Setup Server
+Setelah setup selesai, finalisasi konfigurasi dengan menjalankan perintah berikut:
+```bash
+bash make
+```
+Perintah ini akan menyelesaikan semua konfigurasi server dan memastikan sistem sepenuhnya siap.
+
+### 4. Selesaikan Instalasi
+Setelah skrip selesai dijalankan, server kamu seharusnya sudah siap digunakan. Jika menemui masalah saat setup, periksa file log atau hubungi dukungan.
