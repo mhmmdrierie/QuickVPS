@@ -3,6 +3,7 @@ echo "
   / _ \ _  _(_)__| |__ \ \ / / _ \/ __|
  | (_) | || | / _| / /  \ V /|  _/\__ \
   \__\_\\_,_|_\__|_\_\   \_/ |_|  |___/                                                                    
+
 "
 echo Quick PowerEdge VPS Creator
 echo - 768 GiB RAM
